@@ -31,6 +31,6 @@ __asm {
   }
 }
 
-void Unprotect(unsinged int EIP) {
+void Unprotect(unsigned int EIP) {
 
 }
